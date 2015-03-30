@@ -40,7 +40,10 @@
 ;;;  currently copied into each voice's festvox/ directory                ;;
 ;;;                                                                       ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
+;;;                                                                       ;;
+;;;  Modified to work with qTA by Johan Frid (johan,frid@ling.lu.se) 2015 ;;
+;;;                                                                       ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (defvar cluster_synth_pre_hooks nil)
 (defvar cluster_synth_post_hooks nil)
 (defvar clustergen_mcep_trees nil)

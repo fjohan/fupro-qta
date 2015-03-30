@@ -5,6 +5,8 @@ version$ = "v 1.3"
 # (Santitham Prom-on <santitham@cpe.kmutt.ac.th>); all rights reserved.
 # Report any bugs to Yi Xu
 
+# modified to work with festival by Johan Frid (johan,frid@ling.lu.se) 2015
+
 #	This script is for automatic extraction of pitch target parameters. A pitch target is an ideal 
 #	f0 trajectory associated with a segmental unit, which is defined by three parameters: slope, 
 #	height and strength. The target notion is the core of the PENTA model (Parallel Encoding and 
